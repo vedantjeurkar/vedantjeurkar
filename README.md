@@ -3,7 +3,7 @@
 🎓 Fresher Software Engineer | 💻 Python • Java • SQL | 🤖 AIML Enthusiast  
 
 I’m passionate about building real-world projects, exploring machine learning, and creating useful applications.  
-Currently working on: **Advanced Java Chat Application** and **Image Restoration Service using RBMs**.  
+Currently working on: **Automated Testing of web application** and **Image Restoration Service using RBMs**.  
 
 ---
 
